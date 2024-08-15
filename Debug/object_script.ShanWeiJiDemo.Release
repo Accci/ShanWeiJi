@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/receivepack.o
+release/sendpack.o
+release/needle.o
+release/qrc_res.o
+release/moc_mainwindow.o
+release/moc_receivepack.o
+release/moc_sendpack.o
+release/moc_needle.o

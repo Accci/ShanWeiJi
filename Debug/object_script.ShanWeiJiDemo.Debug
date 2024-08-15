@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/receivepack.o
+debug/sendpack.o
+debug/needle.o
+debug/qrc_res.o
+debug/moc_mainwindow.o
+debug/moc_receivepack.o
+debug/moc_sendpack.o
+debug/moc_needle.o
